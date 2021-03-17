@@ -5,13 +5,13 @@
   
   ##
   
-📍 Formiga - MG
+📍 Formiga - MG.
   
-👦 24 Anos
+👦 24 Anos.
   
-👨‍💻 Desenvolvedor 
+👨‍💻 Desenvolvedor Web.
   
-📞 (37)99864-6186
+📞 (37)99864-6186.
   <div>
   <a href="https://www.linkedin.com/in/gustavo-eduardo-525052209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gusttavo_eduardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
