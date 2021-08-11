@@ -1,6 +1,5 @@
 ## Olaa! Eu sou o Gustavo Eduardo, bem vindo ao meu GitHub. <img align="center" alt="Rafa-pikachu" height="30" width="40" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavoprogs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavoprogs&layout=compact&langs_count=8&theme=dracula"/>
 <div>
   
   ##
