@@ -10,7 +10,7 @@
 👦 25 Anos.
   
 👨‍💻 Desenvolvedor Front-End.
-  #JS,HTML,CSS3
+
   
 📞 (37)99864-6186.
   <div>
