@@ -51,8 +51,6 @@
   <a href="https://www.linkedin.com/in/gustavo-eduardo-525052209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gusttavo_eduardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><br/>
-   <a href="https://instagram.com/cauavsilva"><img src="https://img.shields.io/badge/-@cauavsilva-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-   <a href="https://www.facebook.com/profile.php?id=100028612230071&viewas=100000686899395"><img src="https://img.shields.io/badge/-Cauã%20Silva-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
