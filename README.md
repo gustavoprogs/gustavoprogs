@@ -3,8 +3,6 @@
 <img alt="Coding" src="https://c.tenor.com/wch_imF_RLUAAAAC/lofi.gif" align="right" height="450" width="400" align="right"/>
 <h3> Front-end Developer</h3>
 
-
-
 ### 👨‍🦱  Sobre
 - ⏳  25 Anos;
 - :yellow_heart: JavaScript é minha linguagem favorita;
