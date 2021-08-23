@@ -1,6 +1,6 @@
 <p align="left">
 <h1 align ="center">Olá, me chamo Gustavo Eduardo</h1>
-<img alt="Coding" src="https://c.tenor.com/wch_imF_RLUAAAAC/lofi.gif" align="right" height="450" width="400" align="right"/>
+<img alt="Coding" src="https://c.tenor.com/wch_imF_RLUAAAAC/lofi.gif" align="right" height="350" width="400" align="right"/>
 <h3> Front-end Developer</h3>
 
 ### 👨‍🦱  Sobre
