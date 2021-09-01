@@ -5,7 +5,7 @@
 
 ### 👨‍🦱  Sobre
 - ⏳  25 Anos;
-- :yellow_heart: JavaScript é minha linguagem favorita;
+- :yellow_heart: Minha linguagem favorita é: Programar!
 - 🌱 Atualmente estudando Programação e Inglês;
 - 🎓 Formado em Ciência da Computação na [UNIFOR-MG](https://www.uniformg.edu.br/)
 
