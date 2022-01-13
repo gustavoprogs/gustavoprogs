@@ -9,7 +9,7 @@
 - 🌱 Atualmente estudando Programação e Inglês;
 - 🎓 Formado em Ciência da Computação na [UNIFOR-MG](https://www.uniformg.edu.br/)
 
-### 📊  Objetivos para 2021
+### 📊  Objetivos para 2022
    - 📂  Expandir meu Portfólio;
    - 🤝  Realizar novas parcerias;
    - 📈  Colocar meus projetos no youtube;
