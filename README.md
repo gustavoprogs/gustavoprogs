@@ -11,8 +11,7 @@
 
 ### 📊  Objetivos para 2022
    - 📂  Expandir meu Portfólio;
-   - 🤝  Realizar novas parcerias;
-   - 📈  Colocar meus projetos no youtube;
+   - 🤝  Adquirir experiências profissionais;
 <p/>
 
 
