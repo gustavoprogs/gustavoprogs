@@ -30,19 +30,6 @@
 </p>
 
 
-
-
- <h3 align="center">⭐  Linguagens e Estatísticas</h3>
-
-
-
-
-
-
- <p align="center"> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavoprogs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavoprogs&layout=compact&langs_count=8&theme=dracula"/>
-<p align="left">
    <h3>     ✌️ Contato    </h3>
    📞 (37)99864-6186.
   <div>
