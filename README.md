@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-VBScript-RED" height="25/>
 </p>
-
-
+     
+<p align="left">
    <h3>     ✌️ Contato    </h3>
    📞 (37)99864-6186.
   <div>
