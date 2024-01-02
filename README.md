@@ -4,14 +4,15 @@
 <h3>Developer</h3>
 
 ### 👨‍🦱  Sobre
-- ⏳  25 Anos;
+- ⏳  27 Anos;
+- 🎓 Formado em Ciência da Computação na [UNIFOR-MG](https://www.uniformg.edu.br/)
 - :yellow_heart: Minha linguagem favorita é: Programar!
 - 🌱 Atualmente estudando Programação e Inglês;
-- 🎓 Formado em Ciência da Computação na [UNIFOR-MG](https://www.uniformg.edu.br/)
+- :rocket: Analista de Desenvolvimento e Líder de Suporte na empresa NetAdmin Software
 
-### 📊  Objetivos para 2022
+### 📊  Objetivos para 2024
    - 📂  Expandir meu Portfólio;
-   - 🤝  Adquirir experiências profissionais;
+   - 🤝  Me desenvolver profissionalmente em meu novo cargo como Líder de Suporte;
 <p/>
 
 
