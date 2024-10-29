@@ -4,7 +4,7 @@
 <h3>Developer</h3>
 
 ### 👨‍🦱  Sobre
-- ⏳  27 Anos;
+- ⏳  28 Anos;
 - 🎓 Formado em Ciência da Computação na [UNIFOR-MG](https://www.uniformg.edu.br/)
 - :yellow_heart: Minha linguagem favorita é: Programar!
 - 🌱 Atualmente estudando Programação e Inglês;
