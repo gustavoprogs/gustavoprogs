@@ -10,7 +10,7 @@
 - 🌱 Atualmente estudando Programação e Inglês;
 - :rocket: Analista de Desenvolvimento e Líder de Suporte na empresa NetAdmin Software
 
-### 📊  Objetivos para 2024
+### 📊  Objetivos para 2025
    - 📂  Expandir meu Portfólio;
    - 🤝  Me desenvolver profissionalmente em meu novo cargo como Líder de Suporte;
 <p/>
